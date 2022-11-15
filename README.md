@@ -1,6 +1,6 @@
 # JonahCSMprojectT
 
-This programme was first conceptualised in late 2003 but only came into full effect in March of 2008 when it gained consciousness
+This programme was first conceptualised in late 2003 but only came into full effect in March of 2008 when it gained consciousness.
 
 ---
 
